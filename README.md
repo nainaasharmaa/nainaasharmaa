@@ -79,7 +79,7 @@
 
 ## 💼 Experience
 
-### Tech Intern — Sunstone Education Pvt. Ltd.  
+### Associate engineer— Sunstone Education Pvt. Ltd.  
 *Aug 2025 – Present*
 - Building LLM-based workflows using LangChain & OpenAI API  
 - Prompt design and multi-agent orchestration with CrewAI  
